@@ -1,4 +1,4 @@
-# 🌱 Bohdan Dovhal
+# 🎲 Bohdan Dovhal
 
 **`Front-End Developer`**
 
