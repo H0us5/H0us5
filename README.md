@@ -40,7 +40,7 @@ I'm an junior Front-End developer and content creator. Here you can check all my
 
 ### 📊 Stats
 
-![H0us5's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0us5)](https://github.com/h0us5/github-readme-stats)
+![H0us5's GitHub stats](https://github-readme-stats.vercel.app/api?username=h0us5)
 
 #
 
@@ -59,4 +59,4 @@ I'm an junior Front-End developer and content creator. Here you can check all my
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+-->
