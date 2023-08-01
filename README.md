@@ -1,4 +1,4 @@
-# 🎲 Bohdan Dovhal
+# :magic_wand: Bohdan Dovhal
 
 **`Front-End Developer`**
 
